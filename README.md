@@ -15,7 +15,7 @@ CSS3
 JavaScript
 JSON DB Server (local server)
 Setup and Installation
-Clone the GitHub repository: git clone https://github.com/your-username/flatdango.git
+Clone the GitHub repository: https://github.com/JoyMutuku/codeChallenge-3
 Navigate to the project directory: cd flatdango
 Open the index.html file in a web browser.
 JSON DB Server
